@@ -1,8 +1,11 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.yongmalogis.coupangpartner",
-        "sha256_cert_fingerprints": ["00:AA:9C:CC:F2:0D:9B:58:DD:5D:C6:5B:50:76:2C:1E:8A:45:60:90:69:79:EA:49:45:44:53:8C:BB:27:2C:12"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yongmalogis.coupangpartner",
+    "sha256_cert_fingerprints": [
+      "0E:1E:24:92:48:2E:CD:C5:A9:55:DE:FC:84:00:CC:E5:8C:D7:D9:4F:57:01:D8:A7:B9:A0:43:2C:51:BE:72:FF",
+      "00:AA:9C:CC:F2:0D:9B:58:DD:5D:C6:5B:50:76:2C:1E:8A:45:60:90:69:79:EA:49:45:44:53:8C:BB:27:2C:12"
+    ]
+  }
+}]
